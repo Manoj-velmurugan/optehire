@@ -56,7 +56,7 @@ const SearchBar = ({ onSearch }) => {
         className="flex-grow bg-transparent outline-none px-4 py-2 text-gray-700 placeholder-gray-500"
       />
             <button
-        className="bg-white text-white px-5 py-2 rounded-full hover:bg-white hover:text-black transition"
+        className="bg-black text-white px-5 py-2 rounded-full hover:bg-white hover:text-black transition"
       >
         Search
       </button>
