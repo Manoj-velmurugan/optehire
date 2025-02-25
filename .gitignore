@@ -1,0 +1,11 @@
+.env
+node_modules
+.env.local
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+backend/AI-DIY-Factory/resume_ai/
+venv/
