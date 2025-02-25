@@ -1,4 +1,4 @@
-*.env
+
 node_modules
 .env.local
 
@@ -10,4 +10,3 @@ __pycache__/
 backend/AI-DIY-Factory/resume_ai/
 venv/
 
-backend/.env:2
