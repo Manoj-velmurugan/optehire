@@ -1,4 +1,4 @@
-backned/.env
+backend/.env
 node_modules
 .env.local
 
