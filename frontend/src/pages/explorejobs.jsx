@@ -15,7 +15,7 @@ const ExploreJobs = () => {
                 <CommonNavbar/>
       <div className="container mx-auto px-6 flex-grow">
         {/* Page Title */}
-        <h1 className="text-4xl font-bold text-black mb-6 pt-16 text-center">Explore Jobs</h1>
+        <h1 className="text-4xl font-bold text-black pt-16 text-center">Explore Jobs</h1>
 
         {/* Search Bar */}
         <JobList/>

@@ -32,7 +32,7 @@ const Footer = () => {
 
       {/* Copyright */}
       <div className="mt-4 text-center text-sm text-black">
-        © 2023 Flowbite™. All Rights Reserved.
+        © 2023 OpteHire™. All Rights Reserved.
       </div>
     </footer>
   );

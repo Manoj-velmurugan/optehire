@@ -27,8 +27,6 @@ const Navbar = () => {
                 Continue
               </button>
             </a>
-            {/* Optional: Add UserButton for profile management */}
-            {/* <UserButton afterSignOutUrl="/" /> */}
           </SignedIn>
         </div>
       </nav>
