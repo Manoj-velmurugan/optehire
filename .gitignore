@@ -9,3 +9,5 @@ __pycache__/
 # Ignore virtual environments
 backend/AI-DIY-Factory/resume_ai/
 venv/
+
+backend/.env:2
